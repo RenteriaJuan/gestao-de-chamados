@@ -1,0 +1,12 @@
+Prioridade 1: 
+Criação de Chamados: Usuários devem ser capazes de criar chamados, estes chamados devem ter descrição, prioridade e categoria (Ex: software e hardware).
+
+Tratamento de Chamados via I.A: O sistema deve analisar os chamados por meio de uma I.A, e após a análise deve atribuir um nível de prioridade e os enviar para o responsável técnico, e caso necessário recategorizar o chamado.
+
+O banco de dados deve ser MS SQL server hospedado em Windows Server.
+
+Prioridade 2: 
+Gerenciamento de chamados: Os chamados pendentes e concluídos poderão ser acessados pelo(s) responsável técnico, e podem ser marcados como concluídos após o problema ser resolvido.
+
+Prioridade 3: 
+Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário e responsável técnico).
