@@ -8,5 +8,7 @@ O banco de dados deve ser MS SQL server hospedado em Windows Server.
 Prioridade 2: 
 Gerenciamento de chamados: Os chamados pendentes e concluídos poderão ser acessados pelo(s) responsável técnico, e podem ser marcados como concluídos após o problema ser resolvido.
 
+Criação de Relatórios: O sistema deve ser capaz de criar relatórios semanais e mensais sobre os chamados criados, resolvidos e pendentes.
+
 Prioridade 3: 
-Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário e responsável técnico).
+Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário, responsável técnico e administrador).
