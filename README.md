@@ -5,13 +5,15 @@ Este projeto é um sistema integrado para gerenciar solicitações de suporte t�
 ## Integrantes 
 - Project Owner
 Christian Fernandes 
+
 - Scrum Master
 Juan Vargas
+
 - Desenvolvedores
-Théo Brasil P. Pinto
-Ana Beatriz
-Gustavo Gramacho
-Lucas Keiji
+Théo Brasil P. Pinto,
+Ana Beatriz,
+Gustavo Gramacho,
+Lucas Keiji,
 
 ## Requisitos
 - SQL
