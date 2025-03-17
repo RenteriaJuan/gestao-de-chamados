@@ -10,9 +10,9 @@ Christian Fernandes
 Juan Vargas
 
 - Desenvolvedores:
-Théo Brasil P. Pinto,
-Ana Beatriz,
-Gustavo Gramacho,
+Théo Brasil P. Pinto
+Ana Beatriz
+Gustavo Gramacho
 Lucas Keiji
 
 ## Requisitos
