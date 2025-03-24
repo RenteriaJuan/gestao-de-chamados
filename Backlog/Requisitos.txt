@@ -12,3 +12,4 @@ Criação de Relatórios: O sistema deve ser capaz de criar relatórios semanais
 
 Prioridade 3: 
 Níveis de acesso: O Sistema deve possuir níveis de acesso (funcionário, responsável técnico e administrador).
+Gustavo
